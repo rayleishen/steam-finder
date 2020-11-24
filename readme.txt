@@ -11,7 +11,7 @@ A line count of 334 simply means that its an empty steam page without an account
 Value should be changed accordingly for other sites.
 
 data.txt should be modified to your prefered parameters.
-Currently it contains all 4 digit english words recognized by scrabble.
+Currently, it contains all 4 digit english words recognized by scrabble.
 
 Please don't be stupid and run 50 instances of this on a bunch of computers
 for whatever reason. This was made simply for my personal convenience.
